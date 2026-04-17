@@ -1,4 +1,4 @@
 # Resume
 
 # To download Resume:
-Click on Resume file and then click on download raw file
+Click on Resume file *(pdf) and then click on download raw file
