@@ -1,3 +1,4 @@
 # Resume
 
-Click on Resume file and then click on download raw data
+# To download Resume:
+Click on Resume file and then click on download raw file
